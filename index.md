@@ -37,13 +37,13 @@ AUTHORITY PRECEDES CANONICITY
 - Irenaeus of Lyon, born in the early second century, writing in the late second century from the region known today as France: _“There are four Gospels and only four, neither more nor less. … Christ is at the center of them. John actually speaks of his kingly and glorious sonship to the Father in his opening words: ‘In the beginning was the Word.’ Luke begins with Zechariah offering a sacrifice. Matthew chooses first of all the Lord’s human genealogy. And Mark leads off by calling on the prophetic Spirit which invests humanity from on high. …Matthew issued a written Gospel among the Hebrews in their own language,* while Peter and Paul were preaching at Rome, and laying the foundations of the Church. After their departure, Mark, Peter’s follower and translator, handed down to us in writing what had been preached by Peter. Luke also, the companion of Paul, recorded in a book the Gospel preached by him. Afterwards, John, the disciple of the Lord, who also had leaned on his chest, published a Gospel during his residence at Ephesus in Asia.” _
 - Irenaeus probably gained at least some of his information through Polycarp of Smyrna, who was born in the first century and martyred in the mid-second century. Polycarp had been a companion of Papias; both Polycarp and Papias knew John the disciple of Jesus.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.christianitytoday.com%2Fhistory%2Fpeople%2Fevangelistsandapologists%2Fjustin-martyr.html&psig=AOvVaw3blSXuWr384misLHiWp7cY&ust=1638395767471000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCF7YKKwfQCFQAAAAAdAAAAABAD)
+![alt text](https://www-images.christianitytoday.com/images/67238.jpg?h=393&w=700)
 
 - Following Justin Martyr's martyrdom in 165, his disciple Tatian went back to his native Assyria, and there introduced what was to be for centuries a very influential edition of the gospels, his _Diatessaron_. This word is a musical term, meaning 'harmony of four'; it indicates clearly what this edition was. It was a continuous gospel narrative, produced by unstitching the units of the four individual gospels and restiching them together in what was taken to be their chronological order. The gospel of John provided the framework into which material from the gospels of Matthew, Mark and Luke was fitted. 
 
 ### You keep mentioning Papais. Who the heck was Papias?
 
-![alt text](https://www-images.christianitytoday.com/images/67238.jpg?h=393&w=700)
+![alt text](https://credomag.com/wp-content/uploads/bb-plugin/cache/papias-panorama.jpg)
 
 - Papias was a Greek Apostolic Father, Bishop of Hierapolis (modern Pamukkale, Turkey), and author who lived c. 60 – c. 130 AD
 - His goal was to gather oral traditions from original sources in order to preserve them. 
