@@ -2,14 +2,11 @@
 
 If the church of early days found the Hebrew scriptures in their Greek dress to be such an effective Bible, why was it felt necessary to augment them with what later came to be called the New Testament writings? - F.F. Bruce
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What does Canon even mean?
 
-### Markdown
+The root word means “Reed” a reed which could be used as a measuring rod
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+So the nature of the texts requires authority, as it will be used for guiding believers through time
 
 # Header 1
 ## Header 2
