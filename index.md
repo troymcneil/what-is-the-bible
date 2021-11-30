@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## The Gospels and Other Writings
 
-You can use the [editor on GitHub](https://github.com/troymcneil/what-is-the-bible/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If the church of early days found the Hebrew scriptures in their Greek dress to be such an effective Bible, why was it felt necessary to augment them with what later came to be called the New Testament writings? - F.F. Bruce
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
