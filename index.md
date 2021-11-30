@@ -1,3 +1,5 @@
+![alt text](https://i1.wp.com/www.timothypauljones.com/wp-content/uploads/2020/07/maxresdefault.jpg?resize=1180%2C700&ssl=1)
+
 ## The Gospels and Other Writings
 
 If the church of early days found the Hebrew scriptures in their Greek dress to be such an effective Bible, why was it felt necessary to augment them with what later came to be called the New Testament writings? - F.F. Bruce
